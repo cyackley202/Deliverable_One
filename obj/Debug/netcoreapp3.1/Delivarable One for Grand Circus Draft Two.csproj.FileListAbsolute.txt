@@ -1,0 +1,11 @@
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\obj\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.csprojAssemblyReference.cache
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\obj\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.AssemblyInfoInputs.cache
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\obj\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.AssemblyInfo.cs
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\bin\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.exe
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\bin\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.deps.json
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\bin\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.runtimeconfig.json
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\bin\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.runtimeconfig.dev.json
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\bin\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.dll
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\bin\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.pdb
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\obj\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.dll
+C:\Users\Sipe\source\repos\Delivarable One for Grand Circus Draft Two\Delivarable One for Grand Circus Draft Two\obj\Debug\netcoreapp3.1\Delivarable One for Grand Circus Draft Two.pdb

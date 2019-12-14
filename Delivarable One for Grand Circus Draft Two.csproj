@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Delivarable_One_for_Grand_Circus_Draft_Two</RootNamespace>
+    <StartupObject>Delivarable_One_for_Grand_Circus_Draft_Two.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
